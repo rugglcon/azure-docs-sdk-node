@@ -428,6 +428,14 @@
         href: ~/docs-ref-services/{moniker}/arm-cognitiveservices-readme.md
         children:
         - '@azure/arm-cognitiveservices'
+  - name: Cognitive Services Responsible AI
+    href: ~/docs-ref-services/{moniker}/cognitive-services-responsible-ai.md
+    landingPageType: Service
+    items:
+    - name: Content Safety
+      href: ~/docs-ref-services/{moniker}/ai-content-safety-rest-readme.md
+      children:
+      - '@azure-rest/ai-content-safety'
   - name: Commerce
     href: ~/docs-ref-services/{moniker}/commerce.md
     landingPageType: Service
@@ -854,7 +862,7 @@
         href: ~/docs-ref-services/{moniker}/arm-devtestlabs-readme.md
         children:
         - '@azure/arm-devtestlabs'
-  - name: Dns
+  - name: DNS
     href: ~/docs-ref-services/{moniker}/dns.md
     landingPageType: Service
     items:
@@ -1168,6 +1176,14 @@
       href: ~/docs-ref-services/{moniker}/identity-readme.md
       children:
       - '@azure/identity'
+    - name: Token Cache Persistence Plugin
+      href: ~/docs-ref-services/{moniker}/identity-cache-persistence-readme.md
+      children:
+      - '@azure/identity-cache-persistence'
+    - name: VS Code Authentication Plugin
+      href: ~/docs-ref-services/{moniker}/identity-vscode-readme.md
+      children:
+      - '@azure/identity-vscode'
     - name: Plugins
       items:
       - name: Token Cache Persistence
@@ -1628,7 +1644,7 @@
       href: ~/docs-ref-services/{moniker}/monitor-ingestion-readme.md
       children:
       - '@azure/monitor-ingestion'
-    - name: Monitor OpenTelemetry
+    - name: Azure Monitor OpenTelemetry
       href: ~/docs-ref-services/{moniker}/monitor-opentelemetry-readme.md
       children:
       - '@azure/monitor-opentelemetry'
@@ -2536,6 +2552,10 @@
       href: ~/docs-ref-services/{moniker}/web-pubsub-client-readme.md
       children:
       - '@azure/web-pubsub-client'
+    - name: WebPubSub Client SDK Protobuf
+      href: ~/docs-ref-services/{moniker}/web-pubsub-client-protobuf-readme.md
+      children:
+      - '@azure/web-pubsub-client-protobuf'
     - name: Management
       items:
       - name: Resource Management - Web PubSub

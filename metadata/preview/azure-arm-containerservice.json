@@ -1,7 +1,7 @@
 {
   "Name": "@azure/arm-containerservice",
-  "Version": "19.4.0-beta.1",
-  "DevVersion": null,
+  "Version": "19.4.0-alpha.20230925.1",
+  "DevVersion": "19.4.0-alpha.20230925.1",
   "DirectoryPath": "sdk/containerservice/arm-containerservice",
   "ServiceDirectory": "containerservice",
   "ReadMePath": "sdk/containerservice/arm-containerservice/README.md",

@@ -1176,6 +1176,14 @@
       href: ~/docs-ref-services/{moniker}/identity-readme.md
       children:
       - '@azure/identity'
+    - name: Token Cache Persistence Plugin
+      href: ~/docs-ref-services/{moniker}/identity-cache-persistence-readme.md
+      children:
+      - '@azure/identity-cache-persistence'
+    - name: VS Code Authentication Plugin
+      href: ~/docs-ref-services/{moniker}/identity-vscode-readme.md
+      children:
+      - '@azure/identity-vscode'
     - name: Plugins
       items:
       - name: Token Cache Persistence
@@ -1226,6 +1234,10 @@
       href: ~/docs-ref-services/{moniker}/iot-device-update-readme.md
       children:
       - '@azure/iot-device-update'
+    - name: IoT Models Repository
+      href: ~/docs-ref-services/{moniker}/iot-modelsrepository-readme.md
+      children:
+      - '@azure/iot-modelsrepository'
     - name: IoT Hub - IoT Common
       href: ~/docs-ref-services/{moniker}/iot-common-readme.md
       children:
@@ -2544,6 +2556,10 @@
       href: ~/docs-ref-services/{moniker}/web-pubsub-client-readme.md
       children:
       - '@azure/web-pubsub-client'
+    - name: WebPubSub Client SDK Protobuf
+      href: ~/docs-ref-services/{moniker}/web-pubsub-client-protobuf-readme.md
+      children:
+      - '@azure/web-pubsub-client-protobuf'
     - name: Management
       items:
       - name: Resource Management - Web PubSub

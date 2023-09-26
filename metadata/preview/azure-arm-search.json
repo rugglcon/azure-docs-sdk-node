@@ -1,0 +1,14 @@
+{
+  "Name": "@azure/arm-search",
+  "Version": "3.1.1-alpha.20230926.1",
+  "DevVersion": "3.1.1-alpha.20230926.1",
+  "DirectoryPath": "sdk/search/arm-search",
+  "ServiceDirectory": "search",
+  "ReadMePath": "sdk/search/arm-search/README.md",
+  "ChangeLogPath": "sdk/search/arm-search/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-arm-search",
+  "ReleaseStatus": "Unreleased"
+}

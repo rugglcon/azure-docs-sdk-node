@@ -3,24 +3,24 @@ title: Azure AI Content Safety REST client library for JavaScript
 keywords: Azure, javascript, SDK, API, @azure-rest/ai-content-safety, contentsafety
 author: bowgong
 ms.author: bowgong
-ms.date: 09/25/2023
+ms.date: 09/30/2023
 ms.topic: reference
 ms.devlang: javascript
 ms.service: contentsafety
 ---
-# Azure AI Content Safety REST client library for JavaScript - version 1.0.0-beta.1 
+# Azure AI Content Safety REST client library for JavaScript - version 1.0.0-alpha.20230929.1 
 /TypeScript
 
 [Azure AI Content Safety](https://learn.microsoft.com/azure/ai-services/content-safety/overview) detects harmful user-generated and AI-generated content in applications and services. Content Safety includes text and image APIs that allow you to detect material that is harmful.
 
-**Please rely on our [REST client docs](https://github.com/Azure/azure-sdk-for-js/blob/@azure-rest/ai-content-safety_1.0.0-beta.1/documentation/rest-clients.md) to use this library**
+**Please rely on our [REST client docs](https://github.com/Azure/azure-sdk-for-js/blob/main/documentation/rest-clients.md) to use this library**
 
 Key links:
 
-- [Source code](https://github.com/Azure/azure-sdk-for-js/tree/@azure-rest/ai-content-safety_1.0.0-beta.1/sdk/contentsafety/ai-content-safety-rest)
+- [Source code](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/contentsafety/ai-content-safety-rest)
 - [Package (NPM)](https://www.npmjs.com/package/@azure-rest/ai-content-safety)
 - [API reference documentation](/javascript/api/@azure-rest/ai-content-safety?view=azure-node-preview)
-- [Samples](https://github.com/Azure/azure-sdk-for-js/tree/@azure-rest/ai-content-safety_1.0.0-beta.1/sdk/contentsafety/ai-content-safety-rest/samples)
+- [Samples](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/contentsafety/ai-content-safety-rest/samples)
 
 ## Getting started
 
@@ -463,7 +463,7 @@ const { setLogLevel } = require("@azure/logger");
 setLogLevel("info");
 ```
 
-For more detailed instructions on how to enable logs, you can look at the [@azure/logger package docs](https://github.com/Azure/azure-sdk-for-js/tree/@azure-rest/ai-content-safety_1.0.0-beta.1/sdk/core/logger).
+For more detailed instructions on how to enable logs, you can look at the [@azure/logger package docs](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/core/logger).
 
 ## Next steps
 
@@ -473,5 +473,5 @@ For more extensive documentation on Azure Content Safety, see the [Azure AI Cont
 
 ## Contributing
 
-If you'd like to contribute to this library, please read the [contributing guide](https://github.com/Azure/azure-sdk-for-js/blob/@azure-rest/ai-content-safety_1.0.0-beta.1/CONTRIBUTING.md) to learn more about how to build and test the code.
+If you'd like to contribute to this library, please read the [contributing guide](https://github.com/Azure/azure-sdk-for-js/blob/master/CONTRIBUTING.md) to learn more about how to build and test the code.
 

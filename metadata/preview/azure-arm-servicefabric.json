@@ -1,0 +1,14 @@
+{
+  "Name": "@azure/arm-servicefabric",
+  "Version": "2.1.1-alpha.20230927.2",
+  "DevVersion": "2.1.1-alpha.20230929.1",
+  "DirectoryPath": "sdk/servicefabric/arm-servicefabric",
+  "ServiceDirectory": "servicefabric",
+  "ReadMePath": "sdk/servicefabric/arm-servicefabric/README.md",
+  "ChangeLogPath": "sdk/servicefabric/arm-servicefabric/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-arm-servicefabric",
+  "ReleaseStatus": "Unreleased"
+}

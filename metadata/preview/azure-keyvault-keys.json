@@ -1,0 +1,14 @@
+{
+  "Name": "@azure/keyvault-keys",
+  "Version": "4.7.3-alpha.20231002.4",
+  "DevVersion": "4.7.3-alpha.20231002.4",
+  "DirectoryPath": "sdk/keyvault/keyvault-keys",
+  "ServiceDirectory": "keyvault",
+  "ReadMePath": "sdk/keyvault/keyvault-keys/README.md",
+  "ChangeLogPath": "sdk/keyvault/keyvault-keys/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "client",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-keyvault-keys",
+  "ReleaseStatus": "Unreleased"
+}
